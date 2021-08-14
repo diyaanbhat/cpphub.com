@@ -1,1 +1,1 @@
-# cpphub.com
+# cpphub.github.com
